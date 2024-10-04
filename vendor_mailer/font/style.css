@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Avenir LT Std';
+    src: url('http://digihostsolutions.com/organic/vendor_mailer/font/AvenirLTStd-Black.woff2') format('woff2'),
+        url('http://digihostsolutions.com/organic/vendor_mailer/font/AvenirLTStd-Black.woff') format('woff'),
+        url('http://digihostsolutions.com/organic/vendor_mailer/font/AvenirLTStd-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir LT Std';
+    src: url('http://digihostsolutions.com/organic/vendor_mailer/font/AvenirLTStd-Book.woff2') format('woff2'),
+        url('http://digihostsolutions.com/organic/vendor_mailer/font/AvenirLTStd-Book.woff') format('woff'),
+        url('http://digihostsolutions.com/organic/vendor_mailer/font/AvenirLTStd-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir LT Std';
+    src: url('http://digihostsolutions.com/organic/vendor_mailer/font/AvenirLTStd-Roman.woff2') format('woff2'),
+        url('http://digihostsolutions.com/organic/vendor_mailer/font/AvenirLTStd-Roman.woff') format('woff'),
+        url('http://digihostsolutions.com/organic/vendor_mailer/font/AvenirLTStd-Roman.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
