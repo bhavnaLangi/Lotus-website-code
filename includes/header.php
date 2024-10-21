@@ -1,68 +1,23 @@
 <header id="header" class="header header-fixed">
-
-
-
     <div class="container-fluid clearfix">
-
-
-
         <div class="row">
-
-
-
             <div class="brand">
-
-
-
                 <a href="#video-home" class="scrollTo">
-
-
-
                     <div class="brand-logo">
-
-
-
                         <img src="img/logo/logo-small.png" class="logo" alt="logo" />
-
-
-
                     </div>
-
-
-
                     <!-- <div class="brand-name">Lotus Developers</div> -->
-
-
-
-                </a>
-
-
-
-            </div>
-
-
-
+                    </a>
+                </div>
+                <button class="nav-toggle-btn a-nav-toggle">
+                    <span class="nav-toggle">
+                        <span class="stick stick-1"></span>
+                        <span class="stick stick-2"></span>
+                        <span class="stick stick-3"></span>
 
 
 
 
-            <button class="nav-toggle-btn a-nav-toggle">
-
-
-
-                <span class="nav-toggle">
-
-
-
-                    <span class="stick stick-1"></span>
-
-
-
-                    <span class="stick stick-2"></span>
-
-
-
-                    <span class="stick stick-3"></span>
 
 
 
@@ -70,7 +25,15 @@
 
 
 
+
+
+
+
             </button>
+
+
+
+
 
 
 
@@ -78,7 +41,19 @@
 
 
 
+
+
+
+
     </div>
+
+
+
+
+
+
+
+
 
 
 
@@ -94,7 +69,19 @@
 
 
 
+
+
+
+
+
+
+
+
     <div class="menu">
+
+
+
+
 
 
 
@@ -102,14 +89,29 @@
 
 
 
+
+
+
+
             <ul>
 
 
-                <li>
-                    <a href="#video-home" class="a-nav-toggle scrollTo" data-text="The Home Page">The Home Page</a>
-                </li>
+
+
 
                 <li>
+
+                    <a href="#video-home" class="a-nav-toggle scrollTo" data-text="Home Page">Home Page</a>
+
+                </li>
+
+
+
+                <li>
+
+
+
+
 
 
 
@@ -117,9 +119,19 @@
 
 
 
+
+
+
+
                 </li>
 
+
+
                 <li>
+
+
+
+
 
 
 
@@ -127,7 +139,15 @@
 
 
 
+
+
+
+
                         data-text="Our Philosophy">Our Philosophy</a>
+
+
+
+
 
 
 
@@ -135,7 +155,15 @@
 
 
 
+
+
+
+
                 <li>
+
+
+
+
 
 
 
@@ -143,7 +171,15 @@
 
 
 
+
+
+
+
                         data-text="The Lotus Difference">The Lotus Difference
+
+
+
+
 
 
 
@@ -151,6 +187,10 @@
 
 
 
+
+
+
+
                 </li>
 
 
@@ -159,7 +199,19 @@
 
 
 
+
+
+
+
+
+
+
+
                 <li>
+
+
+
+
 
 
 
@@ -167,7 +219,15 @@
 
 
 
+
+
+
+
                         data-text="Residential Developments">Residential Developments</a>
+
+
+
+
 
 
 
@@ -175,7 +235,15 @@
 
 
 
+
+
+
+
                 <li>
+
+
+
+
 
 
 
@@ -183,11 +251,23 @@
 
 
 
+
+
+
+
                         data-text="Commercial Developments">Commercial Developments</a>
 
 
 
+
+
+
+
                 </li>
+
+
+
+
 
 
 
@@ -195,7 +275,15 @@
 
 
 
+
+
+
+
                     <a href="#gall" class="a-nav-toggle"
+
+
+
+
 
 
 
@@ -203,7 +291,15 @@
 
 
 
+
+
+
+
                 </li> -->
+
+
+
+
 
 
 
@@ -211,7 +307,15 @@
 
 
 
+
+
+
+
                     <a href="#footer" class="a-nav-toggle scrollTo"
+
+
+
+
 
 
 
@@ -219,7 +323,15 @@
 
 
 
+
+
+
+
                 </li>
+
+
+
+
 
 
 
@@ -227,7 +339,15 @@
 
 
 
+
+
+
+
         </div>
+
+
+
+
 
 
 
@@ -235,7 +355,15 @@
 
 
 
+
+
+
+
             <div class="text">
+
+
+
+
 
 
 
@@ -243,7 +371,15 @@
 
 
 
+
+
+
+
                     <span class="icon"><i class="socicon-periscope"></i></span>
+
+
+
+
 
 
 
@@ -251,7 +387,15 @@
 
 
 
+
+
+
+
                 </a>
+
+
+
+
 
 
 
@@ -259,7 +403,15 @@
 
 
 
+
+
+
+
             <div class="text">
+
+
+
+
 
 
 
@@ -267,7 +419,15 @@
 
 
 
+
+
+
+
                     <span class="icon"><i class="socicon-mail"></i></span>
+
+
+
+
 
 
 
@@ -275,11 +435,23 @@
 
 
 
+
+
+
+
                 </a>
 
 
 
+
+
+
+
             </div>
+
+
+
+
 
 
 
@@ -287,7 +459,15 @@
 
 
 
+
+
+
+
                 <a href="tel:+91-998-750-9311">
+
+
+
+
 
 
 
@@ -295,7 +475,15 @@
 
 
 
+
+
+
+
                     <span class="line">+91-9987509311</span>
+
+
+
+
 
 
 
@@ -303,7 +491,19 @@
 
 
 
+
+
+
+
             </div>
+
+
+
+
+
+
+
+
 
 
 
@@ -315,7 +515,15 @@
 
 
 
+
+
+
+
     </div>
+
+
+
+
 
 
 

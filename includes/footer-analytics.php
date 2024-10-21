@@ -32,7 +32,7 @@
 
 <!-- <script src="js/jquery.countdown.min.js"></script> -->
 
-<script src="js/script.js"></script>
+<script src="js/script.js?v=<?php echo date('Y-m-d h:i:s'); ?>"></script>
 
 <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js"></script>
 <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script>
@@ -62,7 +62,7 @@
     //     if (handphone.length < 1) {
     //       $('#handphone').after('<span class="error">This field is required</span>');
     //       return false;
-    //     } 
+    //     }
 
     //   });
 
@@ -88,7 +88,7 @@ $.validator.addMethod("emailmatch", function(value, element) {
 });
         $("#demo-form").validate({
 
-            
+
             ignore: [],
 
             rules: {
@@ -96,7 +96,7 @@ $.validator.addMethod("emailmatch", function(value, element) {
                 name: {
                     required: true,
                     alpha:true,
-                  
+
 
                 },
                 email: {
